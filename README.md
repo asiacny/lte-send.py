@@ -1,7 +1,7 @@
 # lte-send.py
 Send MMS messages through serial connected LTE Modem with Python
 
-Harware:
+Hardware:
 
 Raspberry Pi 3 B+
 
